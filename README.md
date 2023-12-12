@@ -8,3 +8,6 @@ computer network
 [【斯坦福大学】CS144 计算机网络介绍（完结·中英字幕·机翻）](https://www.bilibili.com/video/BV137411Z7LR/)
 
 [Computer Networking: a Top-Down Approach (8th ed.)](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
+
+[Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)
+
